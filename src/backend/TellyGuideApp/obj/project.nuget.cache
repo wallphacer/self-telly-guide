@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "q4mJfPYHXlUcwkXCwXDscWxPeKYKQ2Nou3rxQcq2xx5YMTLoMxeH+NOTfpDj23m40pLVtMz9fza046Yh9gKPkw==",
+  "success": true,
+  "projectFilePath": "/Users/kennyk/Projects/tv-guide/self-telly-guide/src/backend/TellyGuideApp/TellyGuideApp.fsproj",
+  "expectedPackageFiles": [
+    "/Users/kennyk/.nuget/packages/falco/4.0.6/falco.4.0.6.nupkg.sha512",
+    "/Users/kennyk/.nuget/packages/falco.markup/1.0.2/falco.markup.1.0.2.nupkg.sha512",
+    "/Users/kennyk/.nuget/packages/fsharp.core/8.0.200/fsharp.core.8.0.200.nupkg.sha512",
+    "/Users/kennyk/.nuget/packages/microsoft.netcore.app.ref/6.0.28/microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "/Users/kennyk/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.28/microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "/Users/kennyk/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.28/microsoft.netcore.app.host.osx-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
